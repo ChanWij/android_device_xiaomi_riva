@@ -133,6 +133,10 @@ PRODUCT_PACKAGES += \
     android.hardware.memtrack@1.0-impl \
     android.hardware.memtrack@1.0-service
 
+# Messaging
+PRODUCT_PACKAGES += \
+    messaging
+
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.0-impl \
